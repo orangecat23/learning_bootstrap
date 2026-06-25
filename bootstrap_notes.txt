@@ -1,0 +1,33 @@
+###  bootstrap 
+why to use bootstrap?
+to make a website responsive asap (has inbuilt css and js)
+
+>> containers -> rows -> columns
+>> grid system- layout
+>> components - elements to fill in the layout
+header, footer are components we could re-use on any website 
+Q. grid size - 12 
+
+read UTILITIES on the website 
+Q. difference between container and container-fluid?
+container fluid fully occupies the page and container leaves some margin
+
+mt-5, p-4, container, border border-primary, container-fluid
+
+>>grid system 
+ container, row , col
+
+Q. max how many columns in row - 12
+
+images- 
+rectangle same size
+square 
+banner 
+
+bootstrap doesnt have hover effects
+
+
+
+
+
+
