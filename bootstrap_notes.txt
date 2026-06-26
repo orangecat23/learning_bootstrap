@@ -26,6 +26,10 @@ banner
 
 bootstrap doesnt have hover effects
 
+navbar varieties 
+brandname, image , logo 
+
+
 
 
 
