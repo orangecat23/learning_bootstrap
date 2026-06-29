@@ -1,11 +1,26 @@
 .bg-c {
-    background-color:antiquewhite;
+    background-color: antiquewhite;
 }
-.card:hover{
+
+.card:hover {
     background-color: cadetblue;
     color: bisque;
 }
-.b:hover{
+
+.b:hover {
     background-color: bisque;
     color: cadetblue;
+}
+
+.logo {
+    /* position: absolute; */
+    height: 100px;
+    width: 100px;
+    padding: 40 px;
+
+}
+
+.list {
+    margin-top: 40px;
+    list-style-type: none;
 }
