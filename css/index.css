@@ -1,3 +1,11 @@
 .bg-c {
-    background-color: coral;
+    background-color:antiquewhite;
+}
+.card:hover{
+    background-color: cadetblue;
+    color: bisque;
+}
+.b:hover{
+    background-color: bisque;
+    color: cadetblue;
 }

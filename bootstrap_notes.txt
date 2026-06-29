@@ -26,12 +26,28 @@ banner
 
 bootstrap doesnt have hover effects
 
+navbar in the header of the body
 navbar varieties 
-brandname, image , logo 
+brand name, image , logo , various sections , editing classes and adding customized classes in external css
 
+creating and anchoring pages
 
+slider in the main and section tag
+slider varieties
+cross fade, simple, adding content and buttons, can edit images on canva and slider images should be of the same size 
 
+29-06-2026
+index page contains a small part of all pages
+product page- image title desc of the product 
+section vs container
+what does img fluid do
 
+uniform image sizes
+charges for trips in cards
 
+footer homework
 
+add logo in first column , quick links 2 use anchor , social media , address- contact- email of company
 
+copyrights section
+4 columns
