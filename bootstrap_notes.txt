@@ -51,3 +51,19 @@ add logo in first column , quick links 2 use anchor , social media , address- co
 
 copyrights section
 4 columns
+ 
+30-06-2026
+table in bootstrap
+table-responsive
+progress
+accordion for FAQs
+
+portfolio 
+
+about page hw 
+put the existing about section then more content
+max 3 sections eg. mission vision history, aireazy about bg image etc codepen cards bootstrap animated hover
+
+testimonials- fix
+
+form and modal in the next one
