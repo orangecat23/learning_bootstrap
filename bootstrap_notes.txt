@@ -69,3 +69,6 @@ testimonials- fix (make it responsive)
 form and modal in the next one
 
 make sure all the links open in a new page - add target blank
+
+2-7-26
+icons 
