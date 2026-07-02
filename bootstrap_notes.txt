@@ -64,6 +64,8 @@ about page hw
 put the existing about section then more content
 max 3 sections eg. mission vision history, aireazy about bg image etc codepen cards bootstrap animated hover
 
-testimonials- fix
+testimonials- fix (make it responsive)
 
 form and modal in the next one
+
+make sure all the links open in a new page - add target blank
